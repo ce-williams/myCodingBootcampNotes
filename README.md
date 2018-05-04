@@ -67,3 +67,27 @@ git pull    - downloads the freshest version
 2. git commit -m "message about what committing"
 3. git push
 
+## Cool Terminal Shortcuts
+
+Up key: goes to the previous command
+Tab key (While typing a file or folder name) : fills out the filename if it's there and unique
+
+### cp <targetfile> <destination file>
+
+copies a file from target to destination (manual click n drag)
+
+### mv <targetfile> <destination file>
+
+Moves a file from target to destination
+
+### Special directories:
+
+~/ - User directory (/Users/curtiswilliams6)
+../ - One directory up (parent directory)
+./ - Current directory (use to select a certian file within a directory)
+/ - Root directory
+
+
+CAT./filename (prints out whole file)
+
+
